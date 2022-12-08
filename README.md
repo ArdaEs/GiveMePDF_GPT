@@ -4,7 +4,7 @@ python=3.9,  openai=0.25.0
 
 Download MiKTeX : https://miktex.org/download
 
-To use add the openai api key and full path to latex exe (e.g. 'C:\\Users\\User\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\latex.exe' )
+To use add the openai api key and full path to latex.exe (e.g. 'C:\\Users\\User\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\latex.exe' )
 
 First run can take some time, miktex can download some stuff.
 
